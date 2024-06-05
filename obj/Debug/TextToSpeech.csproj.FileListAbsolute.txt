@@ -1,0 +1,24 @@
+C:\Users\rolando\source\repos\TextToSpeech\obj\Debug\TextToSpeech.csproj.AssemblyReference.cache
+C:\Users\rolando\source\repos\TextToSpeech\obj\Debug\TextToSpeech.csproj.SuggestedBindingRedirects.cache
+C:\Users\rolando\source\repos\TextToSpeech\obj\Debug\TextToSpeech.MainForm.resources
+C:\Users\rolando\source\repos\TextToSpeech\obj\Debug\TextToSpeech.Properties.Resources.resources
+C:\Users\rolando\source\repos\TextToSpeech\obj\Debug\TextToSpeech.csproj.GenerateResource.cache
+C:\Users\rolando\source\repos\TextToSpeech\obj\Debug\TextToSpeech.csproj.CoreCompileInputs.cache
+C:\Users\rolando\source\repos\TextToSpeech\bin\Debug\TextToSpeech.exe.config
+C:\Users\rolando\source\repos\TextToSpeech\bin\Debug\TextToSpeech.exe
+C:\Users\rolando\source\repos\TextToSpeech\bin\Debug\TextToSpeech.pdb
+C:\Users\rolando\source\repos\TextToSpeech\obj\Debug\TextToSpeech.exe
+C:\Users\rolando\source\repos\TextToSpeech\obj\Debug\TextToSpeech.pdb
+C:\Users\rolando\source\repos\TextToSpeech\bin\Debug\TextToSpeech.exe.manifest
+C:\Users\rolando\source\repos\TextToSpeech\bin\Debug\TextToSpeech.application
+C:\Users\rolando\source\repos\TextToSpeech\obj\Debug\TextToSpeech.TrustInfo.xml
+C:\Users\rolando\source\repos\TextToSpeech\obj\Debug\TextToSpeech.exe.manifest
+C:\Users\rolando\source\repos\TextToSpeech\obj\Debug\TextToSpeech.application
+D:\2nd sem\Integrated Programming\CS2\TextToSpeech\obj\Debug\TextToSpeech.csproj.AssemblyReference.cache
+D:\2nd sem\Integrated Programming\CS2\TextToSpeech\obj\Debug\TextToSpeech.MainForm.resources
+D:\2nd sem\Integrated Programming\CS2\TextToSpeech\obj\Debug\TextToSpeech.Properties.Resources.resources
+D:\2nd sem\Integrated Programming\CS2\TextToSpeech\obj\Debug\TextToSpeech.csproj.GenerateResource.cache
+D:\2nd sem\Integrated Programming\CS2\TextToSpeech\obj\Debug\TextToSpeech.csproj.CoreCompileInputs.cache
+D:\2nd sem\Integrated Programming\CS2\TextToSpeech\obj\Debug\TextToSpeech.TrustInfo.xml
+D:\2nd sem\Integrated Programming\CS2\TextToSpeech\obj\Debug\TextToSpeech.exe
+D:\2nd sem\Integrated Programming\CS2\TextToSpeech\obj\Debug\TextToSpeech.pdb
